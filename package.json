@@ -2,12 +2,21 @@
   "name": "19---budget-tracker",
   "version": "1.0.0",
   "description": "## Description",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CherMill93/BudgetTrackerPWA.git"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CherMill93/BudgetTrackerPWA/issues"
+  },
+  "homepage": "https://github.com/CherMill93/BudgetTrackerPWA#readme",
   "dependencies": {
     "express": "^4.17.3",
     "mongoose": "^6.2.9"

@@ -5,7 +5,7 @@
 
 
 ## Installation
-Npm i mongoose | express |
+Npm i mongoose | express | 
 
 
 ## Usage
@@ -17,6 +17,9 @@ Start server with `npm start` and navigate to http://localhost:3000 in your brow
 Deployed App: https://chermill93.github.io/BudgetTrackerPWA/
 
 screenshot: 
+
+## Credit
+Module 19 code
 
 
 
