@@ -5,7 +5,7 @@
 
 
 ## Installation
-Npm i mongoose | express | 
+Npm i mongoose | express | morgan | compression
 
 
 ## Usage
